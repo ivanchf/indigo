@@ -1,6 +1,4 @@
-## Ivan Fung personal web site
-
-Build with Jekyll with indigo theme.
+A fork to the awesome [Indigo](https://github.com/sergiokopplin/indigo/) theme
 
 ### Workspace at Codenvy
 
