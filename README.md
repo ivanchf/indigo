@@ -4,6 +4,7 @@ A fork to the awesome [Indigo](https://github.com/sergiokopplin/indigo/) theme
 
 [Codenvy Dashboard](codenvy.io/dashboard/#/)
 
+#### Instruction for workspace setup
 1. `git clone https://github.com/ivanchf/ivanchf.github.io.git`
 2. `cd ivanchf.github.io`
 3. `bundle install`
